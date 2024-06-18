@@ -471,10 +471,10 @@ As you can see, I have opened [http://localhost:5173](http://localhost:5173/) on
 
 By following this guide, you've gained the skills and knowledge necessary to create dynamic and interactive real-time chat features in your web applications. Real-time chat is a powerful tool that can enhance user engagement, collaboration, and the overall user experience. Now, armed with Socket.IO and WebSockets, you're well-prepared to implement real-time features that will captivate your users and take your applications to the next level. Happy coding! 🚀
 
-For a detailed reference and access to the complete code implementation, you can visit here [https://github.com/shaikahmadnawaz/chat-app](https://github.com/shaikahmadnawaz/chat-app). The repository contains both the backend and frontend code, providing a comprehensive view of the entire project.
+For a detailed reference and access to the complete code implementation, you can visit here [https://github.com/tausif39/chat-app](https://github.com/tausif39/chat-app). The repository contains both the backend and frontend code, providing a comprehensive view of the entire project.
 
 And don't forget to connect with me on social media to stay updated with the latest tips, tutorials, and guides:
 
-- **LinkedIn:** [**shaikahmadnawaz**](https://www.linkedin.com/in/shaikahmadnawaz)
-- **Twitter:** [**shaikahmadnawaz**](https://twitter.com/shaikahmadnawaz)
-- **GitHub:** [**shaikahmadnawaz**](https://github.com/shaikahmadnawaz)
+- **LinkedIn:** [**shaikahmadnawaz**](https://www.linkedin.com/in/tausif39/)
+- **Twitter:** [**shaikahmadnawaz**](https://twitter.com/tausif39)
+- **GitHub:** [**shaikahmadnawaz**](https://github.com/tausif39)
